@@ -1,6 +1,6 @@
 ## Satellite Life-time Estimation using Machine Learning Algorithms 📈
 
-This a group project created as a part of **Discovery and Learning with Big Data** course at **University of North Texas** by:           
+This is a group project created as a part of **Discovery and Learning with Big Data** course at **University of North Texas** by:           
 [Chandrahaas](https://www.linkedin.com/in/chandrahaas-kalanadhabhatla/),
  [Harshini](https://www.linkedin.com/in/harshini-reddy-chada/),
  [Pranav](https://www.linkedin.com/in/pranav-moses-2142b7154/),
